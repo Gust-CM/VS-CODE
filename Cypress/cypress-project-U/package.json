@@ -1,0 +1,25 @@
+{
+  "name": "cypress-project-u",
+  "version": "1.0.0",
+  "description": "Proyecto de Paradigmas, crear casos de prueba para una aplicación web de compra en línea.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gust-CM/VS-CODE.git"
+  },
+  "keywords": [
+    "Pruebas",
+    "automatizadas",
+    "proyecto",
+    "U."
+  ],
+  "author": "Jervis CM.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gust-CM/VS-CODE/issues"
+  },
+  "homepage": "https://github.com/Gust-CM/VS-CODE#readme"
+}
