@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Gust-CM/VS-CODE/issues"
   },
-  "homepage": "https://github.com/Gust-CM/VS-CODE#readme"
+  "homepage": "https://github.com/Gust-CM/VS-CODE#readme",
+  "dependencies": {
+    "cypress": "^13.4.0"
+  }
 }
